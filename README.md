@@ -15,6 +15,13 @@
 </div>
 
 <h2>👩🏾‍💻 Grahic Web Design & Branding Projects:</h2>
+- <b>Webpages</b>
+  - <a href="https://sakridskin.com"> Sakrid Skin Landing Page </a>
+     
+ 
+- <b> Branding Strategy </b>
+  - <a href="https://docs.google.com/presentation/d/17tpRpLn09NLEEmgwCLHC8SDlT6iEAbKQijyTp8RzWcU/edit#slide=id.gcb9a0b074_1_0)"> Refuel VA Branding Deck</a>
+  - <a href="https://docs.google.com/presentation/d/1T0ifPtampI1aLTVoA3X7eoidApSSliAuiXcfgmqyTX4/edit#slide=id.g1edef0fafc5_0_39"> Magnolia Coffee Company Marketing Project
 
 - <b>Logos</b>
   -![1](https://github.com/user-attachments/assets/11ffd72c-f2e0-4e7d-af61-8ac41a66e0d4)
@@ -27,8 +34,3 @@
   -![KF - Harlem Nights Flyer](https://github.com/user-attachments/assets/9db1e433-7e1b-4f54-8f15-644661bf0de6)
 
   -![KF - Harlem Nights Flyer (1)](https://github.com/user-attachments/assets/3b4e2d40-b3d1-44e1-bea4-00d7cc9691fa)
-
-
-- <b>Webpages</b>
-  - <a href="https://sakridskin.com/">Sakrid Skin Landing Page
-
